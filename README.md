@@ -19,8 +19,9 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FRobinHood
     H3 heading: A title for the FinTech case study report
     Case study content: Content for the case study
 
-<h1>FINTECH_Case_Study</h1>
+# FINTECH_Case_Study
 <image></image>
-    <description></description>
-    <contributors>Cassandra Johnson, Andrew Park, Josh, Rajiv, Fareed, Floriane, Nigil, Nazar</contributors>
-<h3>FINTECH_Case_Study_Report</h3>
+## This is the H2 Description header
+<p>Description</p>
+<p>Contributors: Cassandra Johnson, Andrew Park, Josh, Rajiv, Fareed, Floriane, Nigil, Nazar</p>
+### FINTECH_Case_Study_Report
