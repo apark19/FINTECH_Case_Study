@@ -9,9 +9,9 @@
     Contributors: Cassandra Johnson, Andrew Park, Josh, Rajiv, Fareed, Floriane, Nigil, Nazar
     
 <h3>FINTECH_Case_Study_Report</h3>
-    1 What is the background of your company? 
-    2 What do they do? Who are their competitors?
-    3 How does this company use technology to their advantage? 
-    4 Why are they considered a FinTech company?
-    5 Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
-    6 What is the prognosis for this company? Where do they expect to be in the future?
+    1 What is the background of your company? \n
+    2 What do they do? Who are their competitors? \n
+    3 How does this company use technology to their advantage? \n 
+    4 Why are they considered a FinTech company? \n
+    5 Why is this company exemplary in the FinTech space? What are their strengths and weaknesses? \n
+    6 What is the prognosis for this company? Where do they expect to be in the future? \n
